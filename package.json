@@ -1,7 +1,7 @@
 {
   "name": "led-number",
   "description": "A Vue digital display component that simulates an LCD dot matrix display.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "ferrinweb <ferrinweb@gmail.com>",
   "main": "dist/led-number.js",
   "license": "MIT",
