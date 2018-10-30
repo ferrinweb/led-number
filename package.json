@@ -1,7 +1,7 @@
 {
   "name": "led-number",
-  "description": "A digital display component that simulates an LCD dot matrix display.",
-  "version": "1.0.0",
+  "description": "A Vue digital display component that simulates an LCD dot matrix display.",
+  "version": "1.0.1",
   "author": "ferrinweb <ferrinweb@gmail.com>",
   "main": "dist/led-number.js",
   "license": "MIT",
@@ -13,9 +13,9 @@
   "keywords": [
     "led-number",
     "led",
-    "vue number"
+    "vue"
   ],
-  "homepage": "https://github.com/ferrinweb/led-number/blob/master/README.md",
+  "homepage": "https://github.com/ferrinweb/led-number/raw/master/README.md",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
