@@ -3,7 +3,7 @@
 > A digital display component that simulates an LCD dot matrix display.
 > The name of font used in this component is 'Let's go Digital Regular'.
 
-![](https://github.com/ferrinweb/led-number/raw/master/screenshots.png)
+![](https://github.com/ferrinweb/led-number/blob/master/screensshots.png)
 
 ## How to use / 如何使用
 
