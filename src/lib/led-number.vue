@@ -90,7 +90,7 @@ export default {
       position: absolute;
       top: 0;
       right: 0;
-      color: #e6e6e6;
+      opacity: .1;
       pointer-events: none;
     }
   }
