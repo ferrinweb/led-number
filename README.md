@@ -43,7 +43,7 @@ export default {
 
 > 你可以直接检出 led-number 源码到本地，查看示例。
 
-```javascript
+```html
 <template>
   <div id="app">
     <led-number class="price" :value="number" :toFixed="2" :toLocale="true"></led-number>
